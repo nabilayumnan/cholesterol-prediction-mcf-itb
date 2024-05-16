@@ -1,5 +1,6 @@
 # cholesterol-prediction-mcf-itb
 My journey on accomplished Data Science Competition held by ITB (Institut Teknologi Bandung). Dealing imbalanced dataset of cholesterol total as the target, both from Classification Regression.
+Oh, and dataNoobs is my team name >o< !!
 
 In summary, here's an overview of the steps I've taken:
 - General Preparation: Analyzed pair plots for outlier detection, handled categorical encoding for gender, and selected features based on medical reasoning using pandas, numpy, and seaborn.
@@ -9,4 +10,4 @@ In summary, here's an overview of the steps I've taken:
 - Regression Model: Employed an XGBoost Regressor, achieving a Root Mean Square Error (RMSE) of 31.96 in cross-validation using sklearn's mean_squared_error metric.
 - Additional Techniques: Utilized KNNImputer for handling missing data, and SHAP for model interpretability. Managed warnings using Python's warnings library.
 
-> P.S: The notebook is a bit messy, i'm going to update it asap!
+> P.S: The notebook is a bit messy, I'm going to update it ASAP!
